@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c511b61f79b0c3147aea48f8c613e4ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - targetTransform: {instanceID: 0}
+  - key: {instanceID: 0}
+  - ChestParent: {instanceID: 0}
+  - BadChestPrefab: {instanceID: 0}
+  - TreasurePrefab: {instanceID: 0}
+  - ExplosionPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
