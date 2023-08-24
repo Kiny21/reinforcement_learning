@@ -1,0 +1,29 @@
+{
+    "GetKey": {
+        "checkpoints": [
+            {
+                "steps": 378986,
+                "file_path": "results\\Run 51\\GetKey\\GetKey-378986.onnx",
+                "reward": -1.0,
+                "creation_time": 1684143436.6167653,
+                "auxillary_file_paths": [
+                    "results\\Run 51\\GetKey\\GetKey-378986.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 378986,
+            "file_path": "results\\Run 51\\GetKey.onnx",
+            "reward": -1.0,
+            "creation_time": 1684143436.6167653,
+            "auxillary_file_paths": [
+                "results\\Run 51\\GetKey\\GetKey-378986.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "GetKey": {
+        "checkpoints": [
+            {
+                "steps": 499917,
+                "file_path": "results\\Run 44\\GetKey\\GetKey-499917.onnx",
+                "reward": 0.11155378486055777,
+                "creation_time": 1684002509.1841486,
+                "auxillary_file_paths": [
+                    "results\\Run 44\\GetKey\\GetKey-499917.pt"
+                ]
+            },
+            {
+                "steps": 999947,
+                "file_path": "results\\Run 44\\GetKey\\GetKey-999947.onnx",
+                "reward": 1.2048192771084338,
+                "creation_time": 1684007461.632475,
+                "auxillary_file_paths": [
+                    "results\\Run 44\\GetKey\\GetKey-999947.pt"
+                ]
+            },
+            {
+                "steps": 1498809,
+                "file_path": "results\\Run 44\\GetKey\\GetKey-1498809.onnx",
+                "reward": 1.7541666666666667,
+                "creation_time": 1684012436.7899554,
+                "auxillary_file_paths": [
+                    "results\\Run 44\\GetKey\\GetKey-1498809.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1498809,
+            "file_path": "results\\Run 44\\GetKey.onnx",
+            "reward": 1.7541666666666667,
+            "creation_time": 1684012436.7899554,
+            "auxillary_file_paths": [
+                "results\\Run 44\\GetKey\\GetKey-1498809.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

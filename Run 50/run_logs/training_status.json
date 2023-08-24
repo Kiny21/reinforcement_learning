@@ -1,0 +1,65 @@
+{
+    "GetKey": {
+        "checkpoints": [
+            {
+                "steps": 499962,
+                "file_path": "results\\Run 50\\GetKey\\GetKey-499962.onnx",
+                "reward": -0.7582938388625592,
+                "creation_time": 1684099319.5443573,
+                "auxillary_file_paths": [
+                    "results\\Run 50\\GetKey\\GetKey-499962.pt"
+                ]
+            },
+            {
+                "steps": 999847,
+                "file_path": "results\\Run 50\\GetKey\\GetKey-999847.onnx",
+                "reward": -0.03409090909090909,
+                "creation_time": 1684104099.6592286,
+                "auxillary_file_paths": [
+                    "results\\Run 50\\GetKey\\GetKey-999847.pt"
+                ]
+            },
+            {
+                "steps": 1499979,
+                "file_path": "results\\Run 50\\GetKey\\GetKey-1499979.onnx",
+                "reward": 0.025974025974025976,
+                "creation_time": 1684108757.4993727,
+                "auxillary_file_paths": [
+                    "results\\Run 50\\GetKey\\GetKey-1499979.pt"
+                ]
+            },
+            {
+                "steps": 1999821,
+                "file_path": "results\\Run 50\\GetKey\\GetKey-1999821.onnx",
+                "reward": -0.05357142857142857,
+                "creation_time": 1684113422.9246197,
+                "auxillary_file_paths": [
+                    "results\\Run 50\\GetKey\\GetKey-1999821.pt"
+                ]
+            },
+            {
+                "steps": 2000021,
+                "file_path": "results\\Run 50\\GetKey\\GetKey-2000021.onnx",
+                "reward": -0.03508771929824561,
+                "creation_time": 1684113423.1941664,
+                "auxillary_file_paths": [
+                    "results\\Run 50\\GetKey\\GetKey-2000021.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000021,
+            "file_path": "results\\Run 50\\GetKey.onnx",
+            "reward": -0.03508771929824561,
+            "creation_time": 1684113423.1941664,
+            "auxillary_file_paths": [
+                "results\\Run 50\\GetKey\\GetKey-2000021.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

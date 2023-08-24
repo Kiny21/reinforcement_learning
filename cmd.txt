@@ -1,0 +1,4 @@
+cd C:\Users\User\Desktop\Unitiiii\Myproject\Training
+activate unity
+mlagents-learn .\GetKey.yaml --run-id="Run 1"
+tensorboard --logdir results
